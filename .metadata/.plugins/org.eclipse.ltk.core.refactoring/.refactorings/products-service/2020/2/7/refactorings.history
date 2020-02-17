@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.lateu.micro.service&apos; to &apos;com.lateu.microservice&apos;&#x0A;- Original project: &apos;products-service&apos;&#x0A;- Original element: &apos;products-service/src/main/java/com.lateu.micro.service&apos;&#x0A;- Renamed element: &apos;products-service/src/main/java/com.lateu.microservice&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.lateu.micro.service&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java&lt;com.lateu.micro.service" name="com.lateu.microservice" qualified="false" references="true" stamp="1581561864183" textual="false" version="1.0"/>
+</session>

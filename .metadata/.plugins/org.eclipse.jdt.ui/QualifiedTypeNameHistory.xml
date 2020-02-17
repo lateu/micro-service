@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.lang.Long"/>
+<fullyQualifiedTypeName name="java.util.stream.Stream"/>
+<fullyQualifiedTypeName name="com.lateu.microservice.entities.Product"/>
+<fullyQualifiedTypeName name="com.lateu.ms.DAO.StudentDAO"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="javax.persistence.GeneratedValue"/>
+<fullyQualifiedTypeName name="javax.persistence.GenerationType"/>
+<fullyQualifiedTypeName name="javax.persistence.Id"/>
+<fullyQualifiedTypeName name="javax.persistence.Entity"/>
+<fullyQualifiedTypeName name="lombok.Data"/>
+<fullyQualifiedTypeName name="java.util.Collection"/>
+<fullyQualifiedTypeName name="javax.persistence.OneToMany"/>
+<fullyQualifiedTypeName name="lombok.AllArgsConstructor"/>
+<fullyQualifiedTypeName name="lombok.NoArgsConstructor"/>
+<fullyQualifiedTypeName name="javax.persistence.ManyToOne"/>
+<fullyQualifiedTypeName name="org.springframework.data.jpa.repository.JpaRepository"/>
+<fullyQualifiedTypeName name="org.springframework.data.rest.core.annotation.RepositoryRestResource"/>
+<fullyQualifiedTypeName name="com.lateu.ms.DAO.TrainningDAO"/>
+<fullyQualifiedTypeName name="java.awt.image.RescaleOp"/>
+<fullyQualifiedTypeName name="org.springframework.data.rest.core.config.RepositoryRestConfiguration"/>
+<fullyQualifiedTypeName name="com.lateu.ms.entities.Trainning"/>
+<fullyQualifiedTypeName name="org.springframework.data.rest.core.config.Projection"/>
+<fullyQualifiedTypeName name="com.lateu.ms.entities.Student"/>
+<fullyQualifiedTypeName name="com.lateu.ms.Company"/>
+<fullyQualifiedTypeName name="com.lateu.ms.entities.Company"/>
+<fullyQualifiedTypeName name="com.lateu.ms.dao.CompanyDAO"/>
+<fullyQualifiedTypeName name="java.lang.Math"/>
+<fullyQualifiedTypeName name="org.springframework.cloud.config.server.EnableConfigServer"/>
+<fullyQualifiedTypeName name="org.springframework.boot.CommandLineRunner"/>
+<fullyQualifiedTypeName name="com.lateu.microservice.DAO.ProductDAO"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RestController"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Value"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="java.lang.Object"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
+<fullyQualifiedTypeName name="java.lang.Thread"/>
+</qualifiedTypeNameHistroy>

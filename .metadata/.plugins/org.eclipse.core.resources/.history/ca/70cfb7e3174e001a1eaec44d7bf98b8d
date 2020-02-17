@@ -1,0 +1,8 @@
+package com.lateu.ms.DAO.copy;
+
+public class Snippet {
+	public static void main(String[] args) {
+		repositoryRestConfiguration
+	}
+}
+

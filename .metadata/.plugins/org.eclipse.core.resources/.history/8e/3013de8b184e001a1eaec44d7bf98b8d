@@ -1,0 +1,5 @@
+package com.lateu.ms.projection;
+
+public interface StudentProjection {
+
+}

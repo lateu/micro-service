@@ -1,0 +1,5 @@
+package com.lateu.microservice.DAO;
+
+public interface ProductDAO {
+
+}

@@ -1,0 +1,5 @@
+package com.lateu.ms.DAO;
+
+public interface StudentDAO {
+
+}

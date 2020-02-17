@@ -1,0 +1,11 @@
+
+
+import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.data.rest.core.annotation.RepositoryRestResource;
+
+import com.lateu.ms.Company;
+
+@RepositoryRestResource
+public interface ProductDAO extends JpaRepository<Company, Long>{
+
+}
