@@ -14,7 +14,7 @@ import com.lateu.ms.DAO.StudentDAO;
 import com.lateu.ms.DAO.TrainningDAO;
 import com.lateu.ms.entities.Student;
 import com.lateu.ms.entities.Trainning;
-
+//@EnableEurekaClient
 @SpringBootApplication
 public class MsIssApplication implements CommandLineRunner{
 	@Autowired
